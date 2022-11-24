@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "\\\\192.168.1.2\\share\\lee"
+		},
+		{
+			"name": "NodeMCU1.0",
+			"path": "..\\..\\NodeMCU1.0"
+		},
+		{
+			"name": "arduinoMega2560",
+			"path": "..\\..\\arduinoMega2560"
+		}
+	],
+    "settings": {}
+}
