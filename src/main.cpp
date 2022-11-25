@@ -21,6 +21,7 @@ int xzFlag = 1;  //0 停止 1 准备好 2正转 3 反转 20 正转中 30 反转�
 int flagTemp1=1,flagTemp2=0 ;   // 中断程序中临时保存xzFlag
 int st1,st2; 
 
+// git master测试
 void clearSerialCache(){  //清空Serial缓存
     while (Serial.available())
     {
